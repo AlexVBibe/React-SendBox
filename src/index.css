@@ -1,0 +1,12 @@
+.menu {
+	list-style-type: none;
+	background-color: rgb(15, 35, 62);
+}
+
+.menu li {
+	display: inline-block;
+	width: 105;
+	margin: 5px 0px 0px 5px;
+	padding: 1px;
+	background-color: rgb(15, 35, 62);
+}

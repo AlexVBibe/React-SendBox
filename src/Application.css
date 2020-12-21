@@ -1,0 +1,36 @@
+* {
+	color: rgb(183, 190, 201);
+	padding: 0px;
+	margin: 0px;
+	font-family: Verdana, Helvetica;
+	font-weight: 500;
+	background-color: rgb(23, 53, 93);
+}
+
+a {
+	background-color: rgb(15, 35, 62);
+}
+
+button {
+	background-color: rgb(15, 35, 62);
+	padding: 6px;
+	margin:  1px;
+	border: 1px solid rgb(38, 61, 93);
+}
+
+button:hover {
+	background-color: rgb(7, 137, 197);
+}
+
+input {
+	font-size: 1.25rem;
+	border: 1px solid rgb(38, 61, 93);
+	background-color: rgb(15, 35, 62);
+	margin: 1px;
+	padding: 6px;
+}
+
+*:focus {
+	outline: none;
+	border: 1px solid rgb(183, 190, 201);
+}

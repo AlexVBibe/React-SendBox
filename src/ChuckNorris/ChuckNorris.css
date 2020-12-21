@@ -1,0 +1,28 @@
+div .joke-tile 
+{
+    margin: 1rem;
+    display: block;
+}
+
+.chuckNorrisImage 
+{
+  width: 100px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.nextButton {
+	width: 155px;
+	height: 100px;
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+div .comment {
+    display: inline-block;
+    vertical-align: middle;
+    height: 100px;
+    width: 500px;
+}
